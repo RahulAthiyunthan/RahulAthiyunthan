@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi there, I am Rahul Athiyunthan 👋
 
-<!--
-**RahulAthiyunthan/RahulAthiyunthan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 Where I'm Studying:
+I'm currently studying Computer Engineering at [Your University/Institution Name].
 
-Here are some ideas to get you started:
+### 🌱 Current Interests:
+- Software development and embedded systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👯 What I Want to Collaborate On:
+- Software and embedded system projects, especially those focused on innovative solutions and optimization.
+
+### 📫 How to Reach Me:
+- Email: [rahul.athiy@gmail.com](mailto:rahul.athiy@gmail.com)
+- LinkedIn: [linkedin.com/in/rahul-athiyunthan-704989271](https://linkedin.com/in/rahul-athiyunthan-704989271)
+  
