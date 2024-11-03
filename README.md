@@ -1,7 +1,7 @@
 ## Hi there, I am Rahul Athiyunthan 👋
 
 ### 🎓 Where I'm Studying:
-I'm currently studying Computer Engineering at Stony Brook University.
+-I'm currently studying Computer Engineering at Stony Brook University.
 
 ### 🌱 Current Interests:
 - Software development and embedded systems.
