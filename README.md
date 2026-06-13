@@ -11,7 +11,7 @@
 
 ### 📫 How to Reach Me:
 - Email: [rahul.athiy@gmail.com](mailto:rahul.athiy@gmail.com)
-- LinkedIn: [linkedin.com/in/rahul-athiyunthan-704989271](https://linkedin.com/in/rahul-athiyunthan-704989271)
+- LinkedIn: [linkedin.com/in/rahul-athiyunthan-704989271](https://www.linkedin.com/in/rahul-athiyunthan/)
 
 
 ## 🌐 Socials:
